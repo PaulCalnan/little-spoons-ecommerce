@@ -1,7 +1,7 @@
 const SHOP_DATA = [
   {
     id: 1,
-    title: 'Category 1',
+    title: 'Biscuits',
     routeName: 'treat-category-1',
     items: [
       {
@@ -62,7 +62,7 @@ const SHOP_DATA = [
   },
   {
     id: 2,
-    title: 'Category 2',
+    title: 'Pupcake Bags',
     routeName: 'treat-category-2',
     items: [
       {
@@ -117,7 +117,7 @@ const SHOP_DATA = [
   },
   {
     id: 3,
-    title: 'Category 3',
+    title: 'Kibble',
     routeName: 'treat-category-3',
     items: [
       {
@@ -154,7 +154,7 @@ const SHOP_DATA = [
   },
   {
     id: 4,
-    title: 'Category 4',
+    title: 'Jerky',
     routeName: 'treat-category-4',
     items: [
       {
@@ -203,8 +203,94 @@ const SHOP_DATA = [
   },
   {
     id: 5,
-    title: 'Category 5',
+    title: 'Paw Treats',
     routeName: 'treat-category-5',
+    items: [
+      {
+        id: 1,
+        name: 'Category 5 - Treat Type 1',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 325
+      },
+      {
+        id: 2,
+        name: 'Category 5 - Treat Type 2',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 20
+      },
+      {
+        id: 3,
+        name: 'Category 5 - Treat Type 3',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      },
+      {
+        id: 4,
+        name: 'Category 5 - Treat Type 4',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      },
+      {
+        id: 5,
+        name: 'Category 5 - Treat Type 5',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 40
+      },
+      {
+        id: 6,
+        name: 'Category 5 - Treat Type 6',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: 'Local Supply Only',
+    routeName: 'treat-category-6',
+    items: [
+      {
+        id: 1,
+        name: 'Category 5 - Treat Type 1',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 325
+      },
+      {
+        id: 2,
+        name: 'Category 5 - Treat Type 2',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 20
+      },
+      {
+        id: 3,
+        name: 'Category 5 - Treat Type 3',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      },
+      {
+        id: 4,
+        name: 'Category 5 - Treat Type 4',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      },
+      {
+        id: 5,
+        name: 'Category 5 - Treat Type 5',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 40
+      },
+      {
+        id: 6,
+        name: 'Category 5 - Treat Type 6',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        price: 25
+      }
+    ]
+  },
+  {
+    id: 7,
+    title: 'Balms',
+    routeName: 'treat-category-7',
     items: [
       {
         id: 1,
