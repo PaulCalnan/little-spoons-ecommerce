@@ -6,57 +6,27 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 1 - Treat Type 1',
+        name: 'Individual Bone Shaped Biscuits',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 25
       },
       {
         id: 2,
-        name: 'Category 1 - Treat Type 2',
+        name: 'Individual Paw Shaped Biscuits',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 18
       },
       {
         id: 3,
-        name: 'Category 1 - Treat Type 3',
+        name: 'Individual Iced Bone Shaped Biscuits',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 35
       },
       {
         id: 4,
-        name: 'Category 1 - Treat Type 4',
+        name: 'Individual Iced Paw Shaped Biscuits',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 25
-      },
-      {
-        id: 5,
-        name: 'Category 1 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 18
-      },
-      {
-        id: 6,
-        name: 'Category 1 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 14
-      },
-      {
-        id: 7,
-        name: 'Category 1 - Treat Type 7',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 18
-      },
-      {
-        id: 8,
-        name: 'Category 1 - Treat Type 8',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 14
-      },
-      {
-        id: 9,
-        name: 'Category 1 - Treat Type 9',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 16
       }
     ]
   },
@@ -67,51 +37,15 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 2 - Treat Type 1',
+        name: 'Pupcake Bag (Includes 10)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 220
       },
       {
         id: 2,
-        name: 'Category 2 - Treat Type 2',
+        name: 'Pupcake Bag Iced (Includes 10)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 280
-      },
-      {
-        id: 3,
-        name: 'Category 2 - Treat Type 3',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 110
-      },
-      {
-        id: 4,
-        name: 'Category 2 - Treat Type 4',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 160
-      },
-      {
-        id: 5,
-        name: 'Category 2 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 160
-      },
-      {
-        id: 6,
-        name: 'Category 2 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 160
-      },
-      {
-        id: 7,
-        name: 'Category 2 - Treat Type 7',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 190
-      },
-      {
-        id: 8,
-        name: 'Category 2 - Treat Type 8',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 200
       }
     ]
   },
@@ -122,33 +56,9 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 3 - Treat Type 1',
+        name: 'Turkey and Vegetable (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 125
-      },
-      {
-        id: 2,
-        name: 'Category 3 - Treat Type 2',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 90
-      },
-      {
-        id: 3,
-        name: 'Category 3 - Treat Type 3',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 90
-      },
-      {
-        id: 4,
-        name: 'Category 3 - Treat Type 4',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 165
-      },
-      {
-        id: 5,
-        name: 'Category 3 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 185
       }
     ]
   },
@@ -159,45 +69,33 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 4 - Treat Type 1',
+        name: 'Chicken (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 25
       },
       {
         id: 2,
-        name: 'Category 4 - Treat Type 2',
+        name: 'Beef (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 20
       },
       {
         id: 3,
-        name: 'Category 4 - Treat Type 3',
+        name: 'Kangaroo (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 80
       },
       {
         id: 4,
-        name: 'Category 4 - Treat Type 4',
+        name: 'Turkey (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 80
       },
       {
         id: 5,
-        name: 'Category 4 - Treat Type 5',
+        name: 'Sardines (Subject to availability) (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 45
-      },
-      {
-        id: 6,
-        name: 'Category 4 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 135
-      },
-      {
-        id: 7,
-        name: 'Category 4 - Treat Type 7',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 20
       }
     ]
   },
@@ -208,39 +106,9 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 5 - Treat Type 1',
+        name: 'Carob / Yoghurt',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
-      },
-      {
-        id: 2,
-        name: 'Category 5 - Treat Type 2',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 20
-      },
-      {
-        id: 3,
-        name: 'Category 5 - Treat Type 3',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 4,
-        name: 'Category 5 - Treat Type 4',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 5,
-        name: 'Category 5 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 40
-      },
-      {
-        id: 6,
-        name: 'Category 5 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
       }
     ]
   },
@@ -251,39 +119,15 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 5 - Treat Type 1',
+        name: 'Frozen Pupstickles',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
       },
       {
         id: 2,
-        name: 'Category 5 - Treat Type 2',
+        name: 'Puploaf',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 20
-      },
-      {
-        id: 3,
-        name: 'Category 5 - Treat Type 3',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 4,
-        name: 'Category 5 - Treat Type 4',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 5,
-        name: 'Category 5 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 40
-      },
-      {
-        id: 6,
-        name: 'Category 5 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
       }
     ]
   },
@@ -294,39 +138,9 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Category 5 - Treat Type 1',
+        name: 'Paw and Nose Balm',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
-      },
-      {
-        id: 2,
-        name: 'Category 5 - Treat Type 2',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 20
-      },
-      {
-        id: 3,
-        name: 'Category 5 - Treat Type 3',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 4,
-        name: 'Category 5 - Treat Type 4',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
-      },
-      {
-        id: 5,
-        name: 'Category 5 - Treat Type 5',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 40
-      },
-      {
-        id: 6,
-        name: 'Category 5 - Treat Type 6',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
-        price: 25
       }
     ]
   }
