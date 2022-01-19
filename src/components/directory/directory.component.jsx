@@ -17,13 +17,13 @@ class Directory extends React.Component {
         },
         {
           title: 'Pupcakes',
-          imageUrl: 'https://i.ibb.co/TWZ9DzR/treat-category-4.jpg',
+          imageUrl: 'https://i.ibb.co/tDYQ3dL/treat-category-2.jpg',
           id: 2,
           linkUrl: 'shop/treat-category-2'
         },
         {
           title: 'Kibble',
-          imageUrl: 'https://i.ibb.co/StX9g98/treat-category-3.jpg',
+          imageUrl: 'https://i.ibb.co/TWZ9DzR/treat-category-4.jpg',
           id: 3,
           linkUrl: 'shop/treat-category-3'
         },
