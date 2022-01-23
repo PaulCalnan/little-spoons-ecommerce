@@ -7,3 +7,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+* {
+  /* Will apply to all elements, keeps elements in line */
+  box-sizing: border-box;
+}
