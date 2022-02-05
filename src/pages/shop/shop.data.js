@@ -36,13 +36,13 @@ const SHOP_DATA = [
     routeName: 'treat-category-2',
     items: [
       {
-        id: 1,
+        id: 5,
         name: 'Pupcake Bag (Includes 10)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 220
       },
       {
-        id: 2,
+        id: 6,
         name: 'Pupcake Bag Iced (Includes 10)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 280
@@ -55,7 +55,7 @@ const SHOP_DATA = [
     routeName: 'treat-category-3',
     items: [
       {
-        id: 1,
+        id: 7,
         name: 'Turkey and Vegetable (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 125
@@ -68,31 +68,31 @@ const SHOP_DATA = [
     routeName: 'treat-category-4',
     items: [
       {
-        id: 1,
+        id: 8,
         name: 'Chicken (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 25
       },
       {
-        id: 2,
+        id: 9,
         name: 'Beef (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 20
       },
       {
-        id: 3,
+        id: 10,
         name: 'Kangaroo (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 80
       },
       {
-        id: 4,
+        id: 11,
         name: 'Turkey (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 80
       },
       {
-        id: 5,
+        id: 12,
         name: 'Sardines (Subject to availability) (per 50g)',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 45
@@ -105,7 +105,7 @@ const SHOP_DATA = [
     routeName: 'treat-category-5',
     items: [
       {
-        id: 1,
+        id: 13,
         name: 'Carob / Yoghurt',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
@@ -118,13 +118,13 @@ const SHOP_DATA = [
     routeName: 'treat-category-6',
     items: [
       {
-        id: 1,
+        id: 14,
         name: 'Frozen Pupstickles',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
       },
       {
-        id: 2,
+        id: 15,
         name: 'Puploaf',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 20
@@ -137,7 +137,7 @@ const SHOP_DATA = [
     routeName: 'treat-category-7',
     items: [
       {
-        id: 1,
+        id: 16,
         name: 'Paw and Nose Balm',
         imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
         price: 325
