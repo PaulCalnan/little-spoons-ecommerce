@@ -1,8 +1,8 @@
-const SHOP_DATA = [
-  {
+const SHOP_DATA = {
+  treats_category_one: {
     id: 1,
     title: 'Biscuits',
-    routeName: 'treat-category-1',
+    routeName: 'treats_category_one',
     items: [
       {
         id: 1,
@@ -30,10 +30,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_two: {
     id: 2,
     title: 'Pupcake Bags',
-    routeName: 'treat-category-2',
+    routeName: 'treats_category_two',
     items: [
       {
         id: 5,
@@ -49,10 +49,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_three: {
     id: 3,
     title: 'Kibble',
-    routeName: 'treat-category-3',
+    routeName: 'treats_category_three',
     items: [
       {
         id: 7,
@@ -62,10 +62,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_four: {
     id: 4,
     title: 'Jerky',
-    routeName: 'treat-category-4',
+    routeName: 'treats_category_four',
     items: [
       {
         id: 8,
@@ -99,10 +99,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_five: {
     id: 5,
     title: 'Paw Treats',
-    routeName: 'treat-category-5',
+    routeName: 'treats_category_five',
     items: [
       {
         id: 13,
@@ -112,10 +112,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_six: {
     id: 6,
     title: 'Local Supply Only',
-    routeName: 'treat-category-6',
+    routeName: 'treats_category_six',
     items: [
       {
         id: 14,
@@ -131,10 +131,10 @@ const SHOP_DATA = [
       }
     ]
   },
-  {
+  treats_category_seven: {
     id: 7,
     title: 'Balms',
-    routeName: 'treat-category-7',
+    routeName: 'treats_category_seven',
     items: [
       {
         id: 16,
@@ -143,7 +143,33 @@ const SHOP_DATA = [
         price: 325
       }
     ]
+  },
+  treats_category_eight: {
+    id: 8,
+    title: 'holder',
+    routeName: 'treats_category_eight',
+    items: [
+      {
+        id: 17,
+        name: 'Future Holder',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',      
+        price: 0
+      }
+    ]
+  },
+  treats_category_nine: {
+    id: 9,
+    title: 'holder',
+    routeName: 'treats_category_nine',
+    items: [
+      {
+        id: 18,
+        name: 'Future Holder',
+        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',      
+        price: 0
+      }
+    ]
   }
-];
+};
 
 export default SHOP_DATA;
