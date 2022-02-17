@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ price }) => {
       name='Little Spoons Of Joy'
       billingAddress
       shippingAddress
-      image='../assets/littlespoons-logo.svg'
+      image='https://i.ibb.co/Q8z8TQ2/littlespoons.jpg'
       description={`Your total is $${price}`}
       amount={priceForStripe}
       panelLabel='Pay Now'
