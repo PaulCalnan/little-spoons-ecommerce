@@ -41,7 +41,7 @@ const SHOP_DATA = {
       {
         id: 5,
         name: 'Pupcake Bag (Includes 10)',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/tDYQ3dL/treat-category-2.jpg',
         price: 220
       },
       {
@@ -73,25 +73,25 @@ const SHOP_DATA = {
       {
         id: 8,
         name: 'Chicken (per 50g)',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/nDfd3tF/treat-category-1.jpg',
         price: 5
       },
       {
         id: 9,
         name: 'Beef (per 50g)',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/nDfd3tF/treat-category-1.jpg',
         price: 20
       },
       {
         id: 10,
         name: 'Kangaroo (per 50g)',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/nDfd3tF/treat-category-1.jpg',
         price: 80
       },
       {
         id: 11,
         name: 'Turkey (per 50g)',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/nDfd3tF/treat-category-1.jpg',
         price: 80
       },
       {
@@ -142,7 +142,7 @@ const SHOP_DATA = {
       {
         id: 16,
         name: 'Paw and Nose Balm',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/StX9g98/treat-category-3.jpg',
         price: 325
       }
     ]
