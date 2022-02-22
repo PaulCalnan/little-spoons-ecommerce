@@ -7,7 +7,7 @@ const SHOP_DATA = {
       {
         id: 1,
         name: 'Individual Bone Shaped Biscuits',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/Bw4DfLb/biscuits.jpg',
         price: 12,
         description: 'description about the product goes here',
         color: ['red', 'yellow', 'blue'],
@@ -16,7 +16,7 @@ const SHOP_DATA = {
       {
         id: 2,
         name: 'Individual Paw Shaped Biscuits',
-        imageUrl: 'https://i.ibb.co/Q8z8TQ2/littlespoons.jpg',
+        imageUrl: 'https://i.ibb.co/rKBYrN2/spoons-biscuits.jpg',
         price: 18
       },
       {
