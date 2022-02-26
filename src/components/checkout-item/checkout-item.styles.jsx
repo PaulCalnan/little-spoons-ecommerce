@@ -22,6 +22,11 @@ export const ImageContainer = styled.div`
 
 export const TextContainer = styled.div`
   width: 23%;
+
+  @media screen and (max-width: 800px) {
+   
+    padding: 10px;
+    font-size: 18px;
 `;
 
 export const QuantityContainer = styled(TextContainer)`
