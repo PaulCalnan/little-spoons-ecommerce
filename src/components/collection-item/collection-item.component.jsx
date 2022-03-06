@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
+// import { ItemDescription } from '../item-description';
 
 // import CustomButton from '../custom-button/custom-button.component';
 import { addItem } from '../../redux/cart/cart.actions';
@@ -24,7 +25,10 @@ const CollectionItem = ({ item, addItem }) => {
         <NameContainer>{name}</NameContainer>
         <PriceContainer>{price}</PriceContainer>
       </CollectionFooterContainer>
-      <AddButton onClick={() => addItem(item)} inverted>
+      <AddButton onClick={
+        // ItemDescription
+        () => addItem(item)
+        } inverted>
          Add to cart 
       </AddButton>
     </CollectionItemContainer>

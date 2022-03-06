@@ -14,6 +14,7 @@ import { GlobalStyle } from './global.styles';
 import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 import { setCurrentUser } from './redux/user/user.actions';
 import { selectCurrentUser } from './redux/user/user.selectors';
+// import CartItem from './components/cart-item/cart-item.component';
 
 class App extends React.Component {
   unsubscribeFromAuth = null;
@@ -49,7 +50,7 @@ class App extends React.Component {
         <Header />
         <Switch>
           <Route exact path='/' component={HomePage} />
-          <Route path='/shop' component={ShopPage} />
+          <Route path='/shop' component={ShopPage} />    
           <Route exact path='/checkout' component={CheckoutPage} />
           <Route 
             exact 
